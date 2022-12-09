@@ -1,2 +1,1 @@
-In this project I have tried to show a detailed EDA. After that I've tried with 
-differnt ML algorithms to get the best result. Main focus in the EDA.
+Here I have tried to build a recommendation system using popularity based and collaborative filtering methods to recommend mobile phones to a user which are most popular and personalised respectively.
